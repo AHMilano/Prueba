@@ -1,7 +1,8 @@
-var init = true;
+var initial = true;
 
 function fnConsultar() {
-    console.log(init);
+    let r = 1 + 1;
+    console.log(r);
 }
 
 
