@@ -7,5 +7,6 @@ function fnConsultar() {
 
 
 function fnError() {
-    console.log("Error");
+    console.log("Error Prueba");
+    console.log("Here inti Rahc");
 }
